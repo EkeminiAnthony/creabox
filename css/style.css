@@ -1,0 +1,76 @@
+.header1{
+    background-image: url(../images/bg.PNG);
+}
+.header1{
+    
+    background-size: cover;
+}
+a{
+    color: blue !important;
+}
+.in{
+    background-color: transparent;
+    border: none;
+    color: blue;
+}
+.out{
+    border: 1px solid palevioletred;
+    border-radius: 20px;
+    color: palevioletred;
+}
+.first{
+    text-align: center;
+}
+.header2{
+    background-color: whitesmoke;
+}
+.but{
+    background-color: darkorange;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 2px 3px 3px rgb(167, 109, 40);
+}
+.services{
+    text-align: center;
+}
+.header3{
+    background-color: white;
+}
+.more{
+
+    background-color: darkorange;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 2px 3px 3px rgb(167, 109, 40);
+}
+.header4{
+    background-color: whitesmoke;
+}
+.testi{
+    text-align: center;
+}
+.about{
+    padding: 0px 20px;
+}
+.header5{
+    background-color: whitesmoke;
+}
+.footer1{
+    background-color: blueviolet;
+}
+input{
+    padding: 5px 50px 5px 8px !important;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
